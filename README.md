@@ -10,8 +10,8 @@
             * alt ⇌ crl (Left)
 
     * Microsoft pinyin add 小鹤双拼
-        * reg path  =  \HKEY_CURRENT_USER\Software\Microsoft\InputMethod\Settings\CHS
-        1.add str name  =   UserDefinedDoublePinyinScheme0
-        2.str value     =   小鹤双拼*2*^*iuvdjhcwfg^xmlnpbksqszxkrltvyovt
-        3.modify Microsoft pinyin programme
+        1.reg path  =  \HKEY_CURRENT_USER\Software\Microsoft\InputMethod\Settings\CHS
+        2.add str name  =   UserDefinedDoublePinyinScheme0
+        3.str value     =   小鹤双拼*2*^*iuvdjhcwfg^xmlnpbksqszxkrltvyovt
+        4.modify Microsoft pinyin programme
         
